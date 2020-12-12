@@ -3,7 +3,7 @@ Simple BruteForce with python
 # Brute Force .zip
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-360/) [![Generic badge](https://img.shields.io/badge/tested-yes-<COLOR>.svg)](https://shields.io/) [![Maintenance](https://img.shields.io/badge/Maintenance-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![Python 3.7](https://img.shields.io/badge/python-3.6 / 3.7 / 3.8-blue.svg)](https://www.python.org/downloads/release/python-360/) [![Generic badge](https://img.shields.io/badge/tested-yes-<COLOR>.svg)](https://shields.io/) [![Maintenance](https://img.shields.io/badge/Maintenance-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
 **How to use**
 - Install python and add variables to the system
