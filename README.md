@@ -1,4 +1,7 @@
-Simple BruteForce with python
+**Here are some wordlists**
+https://weakpass.com/lists
+**Segue aqui algumas wordlists**
+https://weakpass.com/lists
 
 # Brute Force .zip
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
