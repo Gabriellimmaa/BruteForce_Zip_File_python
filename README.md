@@ -1,7 +1,7 @@
-**Here are some wordlists**
+**Here are some wordlists:** 
 https://weakpass.com/lists
 
-**Segue aqui algumas wordlists**
+**Segue aqui algumas wordlists:** 
 https://weakpass.com/lists
 
 # Brute Force .zip
